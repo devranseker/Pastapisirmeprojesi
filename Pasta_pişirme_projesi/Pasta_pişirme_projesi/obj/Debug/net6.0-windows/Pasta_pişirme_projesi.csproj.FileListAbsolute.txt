@@ -1,0 +1,16 @@
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\bin\Debug\net6.0-windows\Pasta_pişirme_projesi.exe
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\bin\Debug\net6.0-windows\Pasta_pişirme_projesi.deps.json
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\bin\Debug\net6.0-windows\Pasta_pişirme_projesi.runtimeconfig.json
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\bin\Debug\net6.0-windows\Pasta_pişirme_projesi.dll
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\bin\Debug\net6.0-windows\Pasta_pişirme_projesi.pdb
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.AssemblyInfoInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.AssemblyInfo.cs
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.dll
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\refint\Pasta_pişirme_projesi.dll
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.pdb
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\Pasta_pişirme_projesi.genruntimeconfig.cache
+C:\Users\devra\Desktop\C# Projelerim\Pasta_pişirme_projesi\Pasta_pişirme_projesi\obj\Debug\net6.0-windows\ref\Pasta_pişirme_projesi.dll
